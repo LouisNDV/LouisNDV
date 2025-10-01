@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LouisNDV
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in SWE
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
